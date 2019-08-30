@@ -53,6 +53,7 @@
 | Rahul Kejriwal    | WF 2:30pm        | rkej                 | <https://rkej.github.io/stat-184-github-practice//>    | 
 | Sreeram Aleti      | WF 2:30pm        | SreeramAleti         | <https://sreeramaleti.github.io/Stat184-github/> |   
 <br>
+| Xuefei Wang       | WF 2:30pm     | xvwang412     |  <https://xvwang412.github.io/Stat184-Readme/> |
 
 # Integration of RStudio with Git
 
